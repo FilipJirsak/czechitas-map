@@ -1,0 +1,9 @@
+.card--address {
+    background-color: #E8E8E8;
+    padding: 3px;
+    margin: 5px 0;
+}
+
+.card--footer {
+    font-size: 80%;
+}
