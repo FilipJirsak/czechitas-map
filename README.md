@@ -10,7 +10,7 @@ npm i react-mapycz
 ```
 
 ## Dokumentace
-* knihovna [react-mapycz](https://github.com/softopus-io/react-mapycz), [dokumentace](https://softopus-io.github.io/react-mapycz/#section-element)
+* knihovna [react-mapycz](https://github.com/softopus-io/react-mapycz), [dokumentace](https://kolebjak.github.io/react-mapycz/)
 * [API Mapy.cz](https://api.mapy.cz) (knihovna react-mapycz interně používá knihovnu API Mapy.cz)
 
 ## Licenční podmínky
